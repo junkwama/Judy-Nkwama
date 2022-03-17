@@ -14,7 +14,6 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -65,12 +64,13 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react-native" width="40" height="40" /> </a><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
-      alt="react" width="40" height="40" /> </a> </p>
+      alt="react" width="40" height="40" /> </a> 
+</p>
 
-<br>
-
+<p>
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=judy-nkwama&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="judy nkwama" 
-    bg_color=#808080/></p>
+    bg_color=#ffffff/></p>
+</p>
