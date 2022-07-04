@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Judy Nkwama</h1>
-
-<h4 align="center">
-  Currently studying Computer Systems Engineering at <a href="https://www.kocaeli.edu.tr/">Kocaeli University 🌟🌟🌟</a> And working remotely as a software engineer for <a href="https://www.boursesdetudesredc.com/">BeRDC🥇</a> I'm passionate about building complexe information systems. I like learning new things, So I'm a kind of long life learner.
-<br />
-#Always_Hungry🤔 #Always_Foolish🙃
-</h4>
+<h4 align="center"> #Always_Hungry🤔 #Always_Foolish🙃 </h4>
 <br><br>
 
 - 🔭 I’m currently working on ui001
