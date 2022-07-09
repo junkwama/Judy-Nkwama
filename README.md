@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Judy Nkwama</h1>
-<h4 align="center">#LongLifeLearnig:books:  #StayHungry🤔 #StayFoolish:stuck_out_tongue_winking_eye: </h4>
+<h4 align="center">#LongLifeLearning:books:  #StayHungry🤔 #StayFoolish:stuck_out_tongue_winking_eye: </h4>
 <br><br>
 
 - 🔭 I’m currently working on ui001
