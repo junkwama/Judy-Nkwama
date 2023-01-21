@@ -21,7 +21,7 @@
   <a href="mailto:" target="blank"><img align="center"
       src="https://cdn4.vectorstock.com/i/1000x1000/23/08/gmail-new-icon-vector-34182308.jpg"
       alt="judy nkwama on gmail" height="30" width="30" /></a>
-  <a href="https://stackoverflow.com/users/17015161/judy-nkwama" target="blank"><img align="center"
+  <a href="https://stackoverflow.com/users" target="blank"><img align="center"
       src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png"
       alt="judy nkwama on stackOverFlow" height="30" width="30" /></a>
 </p>
