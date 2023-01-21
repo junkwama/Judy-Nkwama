@@ -12,13 +12,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/judy-nkwama/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Judy Nkwama on LikedIn" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/judy.nkwama.1" target="blank"><img align="center"
+  <a href="https://www.facebook.com" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="ajudy nkwama on fb" height="30" width="40" /></a>
-  <a href="mailto:nkwamajudy@gmail.com" target="blank"><img align="center"
+      alt="ajudy nkwama on height="30" width="40" /></a>
+  <a href="mailto:" target="blank"><img align="center"
       src="https://cdn4.vectorstock.com/i/1000x1000/23/08/gmail-new-icon-vector-34182308.jpg"
       alt="judy nkwama on gmail" height="30" width="30" /></a>
   <a href="https://stackoverflow.com/users/17015161/judy-nkwama" target="blank"><img align="center"
