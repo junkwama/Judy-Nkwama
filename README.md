@@ -1,8 +1,8 @@
-<h1 align="center">"Talk is cheap, Show the code!"</h1>
+<h1 align="center">Let's sit and figure it out...</h1>
 <h4 align="center">#LongLifeLearning:books:  #StayHungry🤔 #StayFoolish:stuck_out_tongue_winking_eye: </h4>
 <br><br>
 
-- 🔭 I’m currently working on ui001
+- 🔭 I’m currently working on BeRDC2
 - 🌱 I’m currently learning NodeJs
 - 💬 Ask me about anything
 - ⚡ Fun fact: All the informations above are fake 😄😄
