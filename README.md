@@ -1,5 +1,5 @@
 <h1 align="center">Let's sit and figure it out together 🤙</h1>
-<h4 align="center">#StayFocus #StayHungry #StayFoolish</h4>
+<h4 align="center">#StayHungry #StayFoolish</h4>
    
 <h3 align="center">My 42</h3>
 <div align="center" style="display: flex; ">
